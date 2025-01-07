@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
- hi
+   <img src="C:/Users/kimsu/Desktop/깃허브.png" alt="타이틀 이미지" style="width: 200px; height: auto;" />
 </div>
 
 <!--내용 부분-->
@@ -35,7 +35,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
- <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=#3DDC84" />&nbsp
+ <img src="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=#3DDC84" />&nbsp
 </div>
 
 
