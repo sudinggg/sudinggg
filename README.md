@@ -48,6 +48,5 @@
 </div>
 
 <div>
-   ![sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudinggg&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudinggg&layout=compact)
 </div>
