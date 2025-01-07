@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-   <img src="./images/git-title.png" alt="타이틀 이미지" style="width: 200px; height: auto;" />
+  <img width="800px" src="https://github.com/sudinggg/sudinggg/git-title.png" />
 </div>
 
 <!--내용 부분-->
@@ -45,4 +45,9 @@
     <img
       src="https://img.shields.io/badge/kimsujin032222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+</div>
+
+<div>
+   ![sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudinggg&show_icons=true&theme=radical)
+
 </div>
