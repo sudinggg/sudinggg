@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-   <img src="C:/Users/kimsu/Desktop/깃허브.png" alt="타이틀 이미지" style="width: 200px; height: auto;" />
+   <img src="./images/git-title.png" alt="타이틀 이미지" style="width: 200px; height: auto;" />
 </div>
 
 <!--내용 부분-->
