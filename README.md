@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img width="800px" src="https://github.com/sudinggg/sudinggg/git-title.png" />
+  <img width="800px" src="https://raw.githubusercontent.com/sudinggg/sudinggg/main/git-title.png" alt="GitHub Title Image" />
 </div>
 
 <!--내용 부분-->
@@ -46,7 +46,7 @@
       src="https://img.shields.io/badge/kimsujin032222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-<div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudinggg&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudinggg&layout=compact" alt="Top Langs" />
 </div>
+
