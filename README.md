@@ -50,7 +50,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudinggg&layout=compact" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudinggg&layout=compact&langs_count=10" alt="Top Langs" />
 </div>
 </br>
 
