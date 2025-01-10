@@ -16,15 +16,6 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/dart-1572B6.svg?style=for-the-badge&logo=dart&logoColor=#0175C2" />&nbsp
 
-</div>
-
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  
-</div>
-
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
