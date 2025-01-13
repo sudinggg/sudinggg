@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img width="800px" src="https://raw.githubusercontent.com/sudinggg/sudinggg/main/git-title.png" alt="GitHub Title Image" />
+  <img width="800px" src="https://raw.githubusercontent.com/sudinggg/sudinggg/main/title.png" alt="GitHub Title Image" />
 </div>
 
 <!--내용 부분-->
@@ -43,6 +43,8 @@
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudinggg&layout=compact&langs_count=10" alt="Top Langs" />
+[![sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/sudinggg/github-readme-stats)
+
 </div>
 </br>
 
