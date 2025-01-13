@@ -43,7 +43,6 @@
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudinggg&layout=compact&langs_count=10" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sudinggg&theme=vue&show_icons=true"/></a>
 
 </div>
 </br>
