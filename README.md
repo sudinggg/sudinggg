@@ -43,7 +43,7 @@
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudinggg&layout=compact&langs_count=10" alt="Top Langs" />
-[![sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/sudinggg/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=sudinggg&theme=vue&show_icons=true"/></a>
 
 </div>
 </br>
